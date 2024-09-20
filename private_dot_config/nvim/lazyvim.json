@@ -1,0 +1,10 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.editor.harpoon2",
+    "lazyvim.plugins.extras.editor.illuminate"
+  ],
+  "news": {
+    "NEWS.md": "6520"
+  },
+  "version": 6
+}
