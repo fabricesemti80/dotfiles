@@ -641,6 +641,7 @@ eval "$(direnv hook bash)"
 ## FS: aliases
 alias kubectl="minikube kubectl --"
 alias wezterm='flatpak run org.wezfurlong.wezterm'
+alias k=kubectl
 
 ## FS Nala
 apt() {
